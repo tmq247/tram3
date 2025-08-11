@@ -13,13 +13,21 @@ Let Radha set the mood in your group with just a command.
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/TheErenYeagerx/RadhaMusic?style=flat-square&color=FFD700&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/TheErenYeagerx/RadhaMusic?style=flat-square&color=00BFFF&logo=github" alt="Forks"/>
+  <img src="https://img.shields.io/github/repo-size/TheErenYeagerx/RadhaMusic?style=flat-square&color=8A2BE2&logo=github" alt="Repo Size"/>
+</p>
+
+---
+
 ### 🎧 Core Features
 
-- **Stream HQ Audio/Video** in Telegram voice chats
-- **Personal Playlists** and smart queue control
-- **Lyrics Support** with `/lyrics`
-- **Admin Tools** like pause, skip, seek, and loop
-- **Lightweight & Lag-Free** performance
+- **Stream HQ Audio/Video** in Telegram voice chats  
+- **Personal Playlists** and smart queue control  
+- **Lyrics Support** with `/lyrics`  
+- **Admin Tools** like pause, skip, seek, and loop  
+- **Lightweight & Lag-Free** performance  
 - **Instant Inline Mode Support**
 
 ---
@@ -53,7 +61,7 @@ Let Radha set the mood in your group with just a command.
   <a href="https://t.me/RadhaSprt">
     <img src="https://img.shields.io/badge/Support-Chat-0088cc?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://t.me/TheRadhaupdate">
+  <a href="https://t.me/TheRadhaUpdate">
     <img src="https://img.shields.io/badge/Updates-Channel-0088cc?style=for-the-badge&logo=telegram">
   </a>
 </p>
