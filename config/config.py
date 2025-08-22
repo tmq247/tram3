@@ -32,13 +32,13 @@ EVALOP = list(map(int, getenv("EVALOP", "5106602523").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Cookies URL - here
-COOKIES = ("https://batbin.me/skied")
+COOKIES = ("https://batbin.me/")
 
 # API URL - here
 API_URL = ("https://tgmusic.fallenapi.fun")
 
 # API KEY - here
-API_KEY = ("179216_tGWTRciEuOH1s2nt-kuzfjZOyXbaaEJS")
+API_KEY = ("your_api_key")
 
 # For - downloads
 DOWNLOADS_DIR = "downloads"
