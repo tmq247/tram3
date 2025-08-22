@@ -13,13 +13,13 @@ Let Radha Set The Mood In Your Group With Just A Command.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/TheErenYeagerx/RadhaMusic?style=flat-square&color=FFD700&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/TheErenYeagerx/RadhaMusic?style=flat-square&color=00BFFF&logo=github" alt="Forks"/>
-  <img src="https://img.shields.io/github/repo-size/TheErenYeagerx/RadhaMusic?style=flat-square&color=8A2BE2&logo=github" alt="Repo Size"/>
-  <img src="https://img.shields.io/github/last-commit/TheErenYeagerx/RadhaMusic?style=flat-square&color=32CD32" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/actions/workflow/status/TheErenYeagerx/RadhaMusic/main.yml?style=flat-square&label=Build%20Status" alt="Build Status"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/github/stars/TheErenYeagerx/RadhaMusic?style=for-the-badge&color=FFD700&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/TheErenYeagerx/RadhaMusic?style=for-the-badge&color=00BFFF&logo=github" alt="Forks"/>
+  <img src="https://img.shields.io/github/repo-size/TheErenYeagerx/RadhaMusic?style=for-the-badge&color=8A2BE2&logo=github" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/last-commit/TheErenYeagerx/RadhaMusic?style=for-the-badge&color=32CD32" alt="Last Commit"/>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a
 
 ---
 
