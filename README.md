@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://files.catbox.moe/eodfxf.jpg" width="400">
+  <img src="https://files.catbox.moe/0ikpis.jpg" width="400">
 </p>
 
-<h1 align="center"><b>Radha ✦ Music Bot</b></h1>
+<h1 align="center"><b>Radha Music Bot</b></h1>
 
 <p align="center"><b>Smooth · Stylish · Smart</b></p>
 
 <p align="center">
-A modern Telegram music bot that blends simplicity with powerful audio and video streaming features.  
-Let Radha set the mood in your group with just a command.
+A Modern Telegram Music Bot That Blends Simplicity With Powerful Audio And Video Streaming Features.  
+Let Radha Set The Mood In Your Group With Just A Command.
 </p>
 
 ---
@@ -17,18 +17,20 @@ Let Radha set the mood in your group with just a command.
   <img src="https://img.shields.io/github/stars/TheErenYeagerx/RadhaMusic?style=flat-square&color=FFD700&logo=github" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/TheErenYeagerx/RadhaMusic?style=flat-square&color=00BFFF&logo=github" alt="Forks"/>
   <img src="https://img.shields.io/github/repo-size/TheErenYeagerx/RadhaMusic?style=flat-square&color=8A2BE2&logo=github" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/last-commit/TheErenYeagerx/RadhaMusic?style=flat-square&color=32CD32" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/actions/workflow/status/TheErenYeagerx/RadhaMusic/main.yml?style=flat-square&label=Build%20Status" alt="Build Status"/>
 </p>
 
 ---
 
 ### 🎧 Core Features
 
-- **Stream HQ Audio/Video** in Telegram voice chats  
-- **Personal Playlists** and smart queue control  
+- **Stream HQ Audio/Video** in Telegram voice chats    
 - **Lyrics Support** with `/lyrics`  
 - **Admin Tools** like pause, skip, seek, and loop  
 - **Lightweight & Lag-Free** performance  
 - **Instant Inline Mode Support**
+- **API Support**
 
 ---
 
@@ -55,6 +57,88 @@ Let Radha set the mood in your group with just a command.
 
 ---
 
+## 🍪 Avoiding Bans
+
+### Option 1: Premium API
+```env
+API_URL=https://tgmusic.fallenapi.fun
+API_KEY=your-secret-key
+```
+📌 Get keys: [Contact @AshokShau](https://t.me/AshokShau) or [@FallenApiBot](https://t.me/FallenApiBot)
+
+## Option 2: Cookies
+
+# **📜 Using Cookies for Authentication**  
+
+### **🔹 Method: Netscape HTTP Cookie File**  
+To authenticate requests using browser cookies, follow these steps:  
+
+> ⚠️ **Important Note:**  
+> - Always use a **secondary account** for generating cookies.  
+> - Once cookies are uploaded, **do not log in again** on that account—it may invalidate the session prematurely.  
+
+---
+
+## **📌 Step 1: Export Cookies in Netscape Format**  
+Use a browser extension to export cookies as a **`cookies.txt`** file in **Netscape HTTP format**:  
+
+### **🌐 Recommended Extensions:**  
+| Browser | Extension | Download Link |  
+|---------|-----------|---------------|  
+| **Chrome** | `Get cookies.txt` | [Chrome Web Store](https://chromewebstore.google.com/detail/get-cookiestxt-clean/ahmnmhfbokciafffnknlekllgcnafnie) |  
+| **Firefox** | `cookies.txt` | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/) |  
+
+### **📥 How to Export:**  
+1. Install the extension.  
+2. Navigate to the target website (YouTube.com) and log in.  
+3. Click the extension icon and select **"Export cookies.txt"**.  
+4. Save the file.  
+
+---
+
+## **📌 Step 2: Upload Cookies to a Paste Service**  
+Host your `cookies.txt` on a text-sharing service:  
+
+### **🔗 Recommended Paste Services:**  
+- **[BatBin](https://batbin.me)** (Recommended, no login required)  
+- **[PasteBin](https://pastebin.com)** (Requires account for long-term pastes)  
+
+### **📤 Upload Steps:**  
+1. Open the paste service.  
+2. Copy-paste the **entire content** of `cookies.txt`.  
+3. Click **"Create Paste"** and copy the URL.  
+
+---
+
+## **📌 Step 3: Set the Environment Variable**  
+Add the paste URL to your **`COOKIES_URL`** environment variable.  
+
+### **⚙️ Example:**  
+```env
+COOKIES_URL=https://batbin.me/abc123, https://pastebin.com/raw/xyz456
+```  
+*(Supports multiple URLs separated by commas)*  
+
+---
+
+### **❓ Troubleshooting**  
+🔸 **Session Invalid?** → Generate new cookies and avoid logging in elsewhere.  
+🔸 **403 Errors?** → Ensure cookies are fresh and not expired.
+
+---
+
+### **✅ Best Practices**  
+✔ **Rotate cookies** periodically to avoid bans.  
+✔ **Use private/incognito mode** when generating cookies.  
+✔ **Monitor session activity** to detect early invalidation.  
+
+---
+
+#### **🎉 Enjoy using cookies!**
+
+---
+
+
 ### 📬 Stay Connected
 
 <p align="center">
@@ -68,8 +152,7 @@ Let Radha set the mood in your group with just a command.
 
 ---
 
-<p align="center"><i>Built to flow like music. Elegant like Radha.</i></p>
+### 🙏 Special Thanks & Credits
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250"/>
-</p>
+- **[Ashokshau](https://github.com/Ashokshau)** — For providing the **Premium API** and **Thumbnails**  
+- **[TeamAlexa](https://github.com/TheTeamAlexa)** — For **Cookies Codes**
