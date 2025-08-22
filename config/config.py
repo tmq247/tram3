@@ -31,6 +31,18 @@ EVALOP = list(map(int, getenv("EVALOP", "5106602523").split()))
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
+# Cookies URL - here
+COOKIES = ("https://batbin.me/skied")
+
+# API URL - here
+API_URL = ("https://tgmusic.fallenapi.fun")
+
+# API KEY - here
+API_KEY = ("179216_tGWTRciEuOH1s2nt-kuzfjZOyXbaaEJS")
+
+# For - downloads
+DOWNLOADS_DIR = "downloads"
+
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
