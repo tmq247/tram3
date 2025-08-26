@@ -23,14 +23,7 @@ Let Radha Set The Mood In Your Group With Just A Command.
 
 ---
 
-### 🎧 Features
-
-**Stream HQ Audio/Video** in Telegram voice chats    
-**Lyrics Support** with `/lyrics`  
-**Admin Tools** like pause, skip, seek, and loop  
-**Lightweight & Lag-Free** performance  
-**Instant Inline Mode Support**
-**API Support**
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=TheErenYeagerx&repo=RadhaMusic&theme=lite)
 
 ---
 
