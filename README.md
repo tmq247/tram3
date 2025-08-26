@@ -23,10 +23,6 @@ Let Radha Set The Mood In Your Group With Just A Command.
 
 ---
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TheErenYeagerx&repo=RadhaMusic&theme=lite)
-
----
-
 ### ⚙️ Commands Snapshot
 
 | Command | Usage |
