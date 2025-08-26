@@ -23,14 +23,14 @@ Let Radha Set The Mood In Your Group With Just A Command.
 
 ---
 
-### 🎧 Core Features
+### 🎧 Features
 
-- **Stream HQ Audio/Video** in Telegram voice chats    
-- **Lyrics Support** with `/lyrics`  
-- **Admin Tools** like pause, skip, seek, and loop  
-- **Lightweight & Lag-Free** performance  
-- **Instant Inline Mode Support**
-- **API Support**
+**Stream HQ Audio/Video** in Telegram voice chats    
+**Lyrics Support** with `/lyrics`  
+**Admin Tools** like pause, skip, seek, and loop  
+**Lightweight & Lag-Free** performance  
+**Instant Inline Mode Support**
+**API Support**
 
 ---
 
