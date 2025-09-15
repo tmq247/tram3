@@ -1,5 +1,5 @@
 aiofiles
-aiohttp~=3.12.15 
+aiohttp
 asyncio 
 beautifulsoup4
 python-whois
