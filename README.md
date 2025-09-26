@@ -46,15 +46,6 @@ Let Radha Set The Mood In Your Group With Just A Command.
 
 ---
 
-## 🍪 Avoiding Bans
-
-### Option 1: Premium API
-```env
-API_URL=https://tgmusic.fallenapi.fun
-API_KEY=your-secret-key
-```
-📌 Get keys: [Contact @AshokShau](https://t.me/AshokShau) or [@FallenApiBot](https://t.me/FallenApiBot)
-
 ## Option 2: Cookies
 
 # **📜 Using Cookies for Authentication**  
@@ -143,5 +134,5 @@ COOKIES_URL=https://batbin.me/abc123, https://pastebin.com/raw/xyz456
 
 ### 🙏 Special Thanks & Credits
 
-- **[Ashokshau](https://github.com/Ashokshau)** — For providing the **Premium API** and **Thumbnails**  
+- **[Ashokshau](https://github.com/Ashokshau)** — For providing **Thumbnails**  
 - **[TeamAlexa](https://github.com/TheTeamAlexa)** — For **Cookies Codes**
