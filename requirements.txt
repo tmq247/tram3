@@ -25,7 +25,7 @@ yt-dlp==2025.06.09
 youtube-search
 youtube-search-python
 git+https://github.com/AsmSafone/SafoneAPI
-httpx==0.25.2
+httpx==0.28.1
 pykeyboard
 python-telegram-bot==20.7
 #----------#
