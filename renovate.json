@@ -1,0 +1,26 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "labels": ["dependencies"],
+  "dependencyDashboard": true,
+  "automerge": false,
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["*"],
+      "enabled": true,
+      "groupName": "All dependencies"
+    }
+  ],
+  "python": {
+    "enabled": true
+  },
+  "pip_requirements": {
+    "fileMatch": ["^requirements\\.txt$"]
+  },
+  "github-actions": {
+    "enabled": true
+  },
+  "baseBranches": ["Radha"],
+  "schedule": ["before 4am on Monday"]
+}
