@@ -10,7 +10,7 @@ pycountry
 heroku3
 motor 
 numpy
-pillow==11.3.0
+pillow==12.1.0
 psutil
 py-tgcalls==2.2.8
 pyrogram==2.0.106
